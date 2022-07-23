@@ -1,4 +1,4 @@
-# STM32F746G-DISCO-Image-Recognition
+# STM32F746G-DISCO-Image-Classification
 STM32F746G-DISCO Image Recognition.
 
 
@@ -9,4 +9,10 @@ For <b>traing</b> your model for STM32F746G-DISCO baord, follow the instructions
 
 
 <b> Please note that due to the evreyday progress of the libraries you might face syntax issue if you want to use this project with other version of the CubeIDE. To avoid this, clone the repo and re-built the project with the exicting libraries. <\B>
+
+
+To run the code on your STM32F746G-Discovery board follow the steps bellow:
+
+1- Clone the repository
+2- Open your STMCubeIDE software
 
