@@ -16,3 +16,6 @@ To run the code on your STM32F746G-Discovery board follow the steps bellow:
 1- Clone the repository
 2- Open your STMCubeIDE software
 
+
+
+<b> Please check the master branch for more information <b>
