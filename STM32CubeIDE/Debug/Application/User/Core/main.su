@@ -1,0 +1,8 @@
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:567:16:Jpeg_CallbackFunction	32	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:397:6:SystemClock_Config	80	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:441:9:scan_files	80	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:521:5:_write	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:1116:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:1170:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:1187:6:Error_Handler	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/main.c:183:5:main	40	static,ignoring_inline_asm

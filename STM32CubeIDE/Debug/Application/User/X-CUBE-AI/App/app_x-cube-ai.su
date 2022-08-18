@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/X-CUBE-AI/App/app_x-cube-ai.c:175:5:acquire_and_process_data	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/X-CUBE-AI/App/app_x-cube-ai.c:196:7:post_process	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/X-CUBE-AI/App/app_x-cube-ai.c:244:6:MX_X_CUBE_AI_Init	24	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/X-CUBE-AI/App/app_x-cube-ai.c:253:5:MX_X_CUBE_AI_Process	8	static

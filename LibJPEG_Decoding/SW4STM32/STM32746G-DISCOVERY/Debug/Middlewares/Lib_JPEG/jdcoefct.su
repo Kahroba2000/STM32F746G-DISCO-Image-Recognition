@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/LibJPEG/source/jdcoefct.c:80:1:start_iMCU_row	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/LibJPEG/source/jdcoefct.c:108:1:start_input_pass	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/LibJPEG/source/jdcoefct.c:120:1:start_output_pass	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/LibJPEG/source/jdcoefct.c:230:1:dummy_consume_data	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/LibJPEG/source/jdcoefct.c:148:1:decompress_onepass	104	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/LibJPEG/source/jdcoefct.c:678:1:jinit_d_coef_controller	16	static

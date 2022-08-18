@@ -1,0 +1,11 @@
+Why the project generated in the touchGFX does not read the SD card:
+
+
+	* 1- copying and pasting the Middleware->Fatfs->Drivers from the LibJpeg project to teh TouchGFX generated project
+	* 2- Remove the Fatfs folder from Application->User directory.
+
+
+ undefined reference to `f_findfirst' Error
+
+
+	* 1- From ff.h  -> ffconff.h set the "_USE_FIND" to 1

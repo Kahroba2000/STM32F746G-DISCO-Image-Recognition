@@ -1,0 +1,5 @@
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LIBJPEG/App/libjpeg.c:45:6:MX_LIBJPEG_Init	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LIBJPEG/App/libjpeg.c:122:6:SaveResizedImageToBuffer	20	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LIBJPEG/App/libjpeg.c:57:6:resize_jpeg_to32x32	24	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LIBJPEG/App/libjpeg.c:137:6:jpeg_decode	24	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LIBJPEG/App/libjpeg.c:207:6:jpeg_decode_From_File	32	static

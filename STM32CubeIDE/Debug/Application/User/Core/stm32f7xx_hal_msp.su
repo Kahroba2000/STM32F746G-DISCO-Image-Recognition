@@ -1,0 +1,17 @@
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:64:6:HAL_MspInit	16	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:93:6:HAL_CRC_MspInit	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:115:6:HAL_CRC_MspDeInit	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:137:6:HAL_DMA2D_MspInit	16	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:162:6:HAL_DMA2D_MspDeInit	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:187:6:HAL_I2C_MspInit	168	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:232:6:HAL_I2C_MspDeInit	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:263:6:HAL_LTDC_MspInit	192	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:379:6:HAL_LTDC_MspDeInit	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:448:6:HAL_QSPI_MspInit	64	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:511:6:HAL_QSPI_MspDeInit	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:548:6:HAL_SD_MspInit	192	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:611:6:HAL_SD_MspDeInit	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:649:6:HAL_UART_MspInit	192	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:703:6:HAL_UART_MspDeInit	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:836:6:HAL_SDRAM_MspInit	48	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Core/Src/stm32f7xx_hal_msp.c:922:6:HAL_SDRAM_MspDeInit	8	static

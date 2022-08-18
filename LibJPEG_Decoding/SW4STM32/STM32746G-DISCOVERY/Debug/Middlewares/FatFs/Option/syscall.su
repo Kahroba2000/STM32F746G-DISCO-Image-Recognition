@@ -1,0 +1,2 @@
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/FatFs/src/option/syscall.c:158:7:ff_memalloc	0	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/LibJPEG_Decoding/Middlewares/Third_Party/FatFs/src/option/syscall.c:170:6:ff_memfree	0	static

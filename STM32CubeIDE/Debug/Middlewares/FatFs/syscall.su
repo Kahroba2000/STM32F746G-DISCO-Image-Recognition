@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Middlewares/Third_Party/FatFs/src/option/syscall.c:36:5:ff_cre_syncobj	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Middlewares/Third_Party/FatFs/src/option/syscall.c:77:5:ff_del_syncobj	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Middlewares/Third_Party/FatFs/src/option/syscall.c:98:5:ff_req_grant	8	static
+C:/TouchGFXProjects/STM32F746G-DISCO-Image-Recognition/STM32F746G-DISCO-Image-Recognition/Middlewares/Third_Party/FatFs/src/option/syscall.c:135:6:ff_rel_grant	0	static
